@@ -1,0 +1,13 @@
+# Keep the build context small and the image clean
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.coverage
+tests/
+requirements-dev.txt
+pytest.ini
+.git/
+Dockerfile
+.dockerignore
