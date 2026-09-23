@@ -1,0 +1,23 @@
+BMI REPORT
+==========
+Source file : /data/people.csv
+People      : 7
+Generated   : 2026-09-23 15:44:22 UTC
+
+Name          Height  Weight    BMI  Category        Advice
+--------------------------------------------------------------------------------------------------------------
+Alice            165    52.0   19.1  Healthy weight  Keep up balanced meals, regular activity and good sleep.
+Bao              172    68.0   23.0  Healthy weight  Keep up balanced meals, regular activity and good sleep.
+Chloe            158    45.0   18.0  Underweight     Consider talking to a GP or dietitian about healthy ways to gain weight.
+Duc              180    95.0   29.3  Overweight      Small, sustainable changes to activity and eating habits can help.
+Emma             170    82.0   28.4  Overweight      Small, sustainable changes to activity and eating habits can help.
+Farhan           175    74.0   24.2  Healthy weight  Keep up balanced meals, regular activity and good sleep.
+Hannah           168   110.0   39.0  Obese           A GP can offer personalised support and check overall health.
+
+Summary by category:
+  Underweight     1
+  Healthy weight  3
+  Overweight      2
+  Obese           1
+
+Note: BMI is a general screening measure. It does not account for muscle mass, age, sex or ethnicity and is not medical advice.
