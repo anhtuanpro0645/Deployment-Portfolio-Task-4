@@ -1,0 +1,3 @@
+fastapi==0.141.*
+uvicorn==0.*
+redis==8.*
